@@ -1,4 +1,5 @@
-const API_BASE_URL = 'https://eldercare-harmony-ngo-1.onrender.com';
+const API_BASE_URL = 'http://localhost:5000';
+
 async function handleResponse(response) {
 	const contentType = response.headers.get('content-type') || '';
 	const isJson = contentType.includes('application/json');
