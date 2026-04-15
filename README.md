@@ -1,4 +1,4 @@
-<img width="1901" height="909" alt="Screenshot 2026-04-15 143148" src="https://github.com/user-attachments/assets/c182cc77-aa3f-411c-a202-9860611caf58" /><img width="1901" height="909" alt="Screenshot 2026-04-15 143148" src="https://github.com/user-attachments/assets/2aacbc02-2965-40c3-86d9-af29dc98748c" /># 🌿 ElderCARE Harmony NGO
+🌿 ElderCARE Harmony NGO
 
 A full-stack web application designed to support elderly care services by connecting users with emergency help, caregiving support, and NGO services.
 
